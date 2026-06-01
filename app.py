@@ -14,7 +14,7 @@ st.subheader("Live Analytics Dashboard")
 # LOAD DATASET
 # --------------------------------
 
-df = pd.read_csv("../data/HHS_Unaccompanied_Alien_Children_Program.csv")
+df = pd.read_csv("HHS_Unaccompanied_Alien_Children_Program.csv")
 
 # --------------------------------
 # SHOW DATASET
